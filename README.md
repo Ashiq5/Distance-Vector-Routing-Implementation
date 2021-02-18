@@ -1,1 +1,3 @@
-# Distance-Vector-Routing-Implementation
+# Distance Vector Routing Implementation
+
+Assignment 2 for CSE 322, BUET
